@@ -1,2 +1,2 @@
 apples, oranges
-tea, coffee
+banana, kiwi
